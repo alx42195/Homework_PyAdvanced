@@ -1,0 +1,14 @@
+[
+    {
+        "first name": "John",
+        "last name": "Snow",
+        "year of birth": "1980",
+        "city of origin": "London"
+    },
+    {
+        "first name": "Bruce",
+        "last name": "Willis",
+        "year of birth": "1955",
+        "city of origin": "Idar-Oberstein"
+    }
+]
